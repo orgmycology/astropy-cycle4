@@ -1,6 +1,7 @@
 # Organizational Mycology and Astropy
 
-![](https://raw.githubusercontent.com/orgmycology/logo/main/vertical_logo.svg)
+[<img src="https://raw.githubusercontent.com/orgmycology/logo/main/vertical_logo.svg" width="33%">](https://orgmycology.com)
+
 
 A proposal to the [Astropy Cycle 4 Funding call](https://github.com/astropy/astropy-project/blob/main/finance/proposal-calls/cycle4/cycle4.md) 
 
