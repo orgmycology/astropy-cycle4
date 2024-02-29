@@ -7,11 +7,15 @@ A proposal to the [Astropy Cycle 4 Funding call](https://github.com/astropy/astr
 
 ## Background 
 
+**Period of Performance:** 6 Months starting April-September 2024 (could be readily extended if the community sees needs for this support longer-term)
+
 Organizational Mycology worked closely with the leadership and newly hired community manager at Astropy in late 2023 to:
 - Coach / support the community manager
 - Develop engagement tracking infrastructure
 - Survey the community about how they use / engage with Astropy
 - Conducted qualitative research around DEI and Code of Conduct in the Astropy community.
+
+**Potential Structures:** We are open to merging this proposal with the community leader's proposal for continued funding, and/or keep this proposal independent. Whatever is easiest logistically, and operationally for the organization is fine for our team. It is our understanding that our last contract was handled under a merged funding request, and we're happy to use that structure again if it simplifies things internal to Astropy.
 
 Organizational Mycology is a consulting organization that works with many open science and open source software communities. Our team members have been in leadership roles within these communities and have helped other organizations build community management, engagement, and governance capacity. We do so with a combination of social science-based introspection and data collection, leadership coaching, and development of sustainable participatory community strategies (i.e., ways for organizations to continue building and evaluating their communities long after we fulfill a contract). These activities are beneficial both for project leaders at a strategic level (e.g., in developing new processes and making administrative decisions) and for community managers at a practical level (e.g., in collecting feedback from the community and fostering healthy community dynamics).
 
