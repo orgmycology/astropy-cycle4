@@ -17,7 +17,7 @@ Organizational Mycology is a consulting organization that works with many open s
 - **Qualitative Inquiry Coaching** – Supporting Beryl Kanali to continue to grow her skills in interviewing, data gathering and report-out as she has conversations with community members.
 - **Skills Map Development** – To help better understand the roles of Astropy community members and the ways in which educational material and community progressions take place, We propose to develop two skills maps, one for Astropy Developers (focusing on on-ramps for new developers) and one for Astropy Users (starting with Astropy Learn lessons). [Examples of skills maps](https://orgmycology.com/skills-maps)
 - **Technical skills support** – Helping and supporting Community Lead as she develops more automations and tools that help her do the work of community manager for the Astropy Community. Project priorities will be set with Community Lead and monthly progress reports will be shared back with the CoCo and community. 
-- **Special projects prioritized by CoCo**
+- **1-2 - Special projects prioritized by CoCo**
   - Contribution workshops
   - How does Astropy want to welcome newcomers?
   - Website strategic facilitations - Drawing from community members vision of a more effective website.
@@ -26,6 +26,11 @@ Across our three person team, we have the domain-specific (open science and OSS)
 
 ## Budget 
 
+- Community Manager Support - $6,000
+- Qualitative Inquiry Coaching - $3,000
+- Skills Map Development - $12,000
+- Technical Skills Support - $3,000
+- 1-2 CoCo prioritized projects - $6,000-12,000 ($6,000 each)
 
 
 ## Terms 
