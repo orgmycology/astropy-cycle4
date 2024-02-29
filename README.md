@@ -29,13 +29,16 @@ Across our three person team, we have the domain-specific (open science and OSS)
 
 All amounts are in USD
 
-- Community Manager Support - $6,000
-- Qualitative Inquiry Coaching - $3,000
-- Skills Map Development - $12,000
-- Technical Skills Support - $3,000
-- 1-2 CoCo prioritized projects - $6,000-12,000 ($6,000 each)
 
-- **Total** - $30,000 - $36,000
+| Item                               | Cost                 |
+|------------------------------------|----------------------|
+| Community Manager Support          | $6,000               |
+| Qualitative Inquiry Coaching       | $3,000               |
+| Skills Map Development             | $12,000              |
+| Technical Skills Support           | $3,000               |
+| 1-2 CoCo prioritized projects      | $6,000-12,000 ($6,000 each) |
+| **Total**                          | **$30,000 - $36,000**|
+
 
 
 ## Terms 
