@@ -7,9 +7,9 @@ A proposal to the [Astropy Cycle 4 Funding call](https://github.com/astropy/astr
 
 ### Project Team
 
-@jduckles - Jonah Duckles - OrgMycology
-@bduckles - Beth Duckles - OrgMycology
-@dsholler - Dan Sholler - OrgMycology
+- @jduckles - Jonah Duckles - OrgMycology
+- @bduckles - Beth Duckles - OrgMycology
+- @dsholler - Dan Sholler - OrgMycology
 
 Working closely with 
 
