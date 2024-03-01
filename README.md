@@ -15,7 +15,7 @@ Working closely with
 
 @BerylKanali - Beryl Kanali - Astropy
 
-### Project Description
+### Background on Past work
 
 Organizational Mycology worked closely with the leadership and newly hired community manager at Astropy in late 2023 to:
 - Coach / support the community manager
